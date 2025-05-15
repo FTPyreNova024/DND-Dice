@@ -45,7 +45,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addDicePreset({
 		type: "d20",
 		labels: "",
-		modelFile: "modules/wcube/wcube_d20.gltf",
+		modelFile: "modules/wcube/wcube_d20.glb",
 		system: "wcube"
 	});
 });
