@@ -31,7 +31,7 @@
 		]
 	},
 	"scripts": [
-		"wcube.js"
+		"PyreNova.js"
 	],
 	"url": "https://github.com/FTPyreNova024/DND-Dice",
 	"manifest": "https://github.com/FTPyreNova024/DND-Dice/raw/refs/heads/main/module.json",
