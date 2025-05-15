@@ -1,5 +1,5 @@
 Hooks.once('diceSoNiceReady', (dice3d) => {
-	dice3d.addSystem({ id: "PyreNova", name: "PyreNovaDice" }, false);
+	dice3d.addSystem({ id: "pyrenova", name: "PyreNovaDice" }, false);
 	dice3d.addDicePreset({
 		type: "d2",
 		labels: "",
