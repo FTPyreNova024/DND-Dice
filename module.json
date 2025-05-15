@@ -1,0 +1,39 @@
+{
+	"id": "wcube",
+	"name": "wcube",
+	"title": "Dice So Nice - PyreNova dice set",
+	"description": "Custon made dice for a campaignt I played",
+	"version": "1.0.6",
+	"minimumCoreVersion": "0.7.2",
+	"compatibleCoreVersion": "13",
+	"compatibility": {
+		"minimum": "0.7.2",
+		"verified": "13"
+	},
+	"author": "EndlesNights",
+	"authors": [
+		{
+			"name": "EndlesNights"
+		}
+	],
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"relationships": {
+		"requires": [
+			{
+				"type": "module",
+				"id": "dice-so-nice"
+			}
+		]
+	},
+	"scripts": [
+		"wcube.js"
+	],
+	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
+	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
+	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/archive/1.0.6.zip"
+}
